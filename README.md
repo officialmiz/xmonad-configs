@@ -1,1 +1,1 @@
-#this is my dual monitor version of my xmonad configs
+#this is my single monitor version of my xmonad configs
